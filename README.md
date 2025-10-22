@@ -5,13 +5,6 @@
 Me chamo Washington Luís Araújo Silva, tenho 42 anos e sou natural do Ceará. Concluí o meu ensino superior em Gestão de TI e sou especializado em Business intelligence, big data e analytics - ciência de dados. Sou apaixonado por tecnologia e compartilho meu conhecimento através de aula como professor na área de TI
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
     <a href="https://www.youtube.com/@washingtonaraujo4677">
         <img 
             alt="youtube views" 
