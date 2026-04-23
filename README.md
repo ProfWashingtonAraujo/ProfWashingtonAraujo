@@ -1,6 +1,6 @@
 # 👨‍💻  Washington Araújo
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Washington Luis Araújo Silva casado com Denise Campos, tenho 42 anos e sou natural de Cascavel, litoral do Ceará. Concluí o ensino médio no CNEC - Pe. Fco Valdevino Nogueira em 2002, com o curso técnico em informática. Atualmente, estou cursando pós-Graduação em Gestão em Educação Profissional pelo IFRO, já com 20 anos de experiência em Análise e Desenvolvimento de Sistemas e Gestão de Projetos TI. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Nerdlif](https://www.youtube.com/@NerdLif)", onde trago algumas novidades da área da tech, e também através do Instagram, com o perfil chamado "[n3rdlif
 ](https://www.instagram.com/n3rdlif/)".
