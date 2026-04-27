@@ -1,177 +1,62 @@
-# 👨‍💻  Washington Araújo
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header" width="100%"/>
 
-**`Desenvolvedor FullStack`**
-
-Me chamo Washington Luis Araújo Silva casado com Denise Campos, tenho 42 anos e sou natural de Cascavel, litoral do Ceará. Concluí o ensino médio no CNEC - Pe. Fco Valdevino Nogueira em 2002, com o curso técnico em informática. Atualmente, estou cursando pós-Graduação em Gestão em Educação Profissional pelo IFRO, já com 20 anos de experiência em Análise e Desenvolvimento de Sistemas e Gestão de Projetos TI. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Nerdlif](https://www.youtube.com/@NerdLif)", onde trago algumas novidades da área da tech, e também através do Instagram, com o perfil chamado "[n3rdlif
-](https://www.instagram.com/n3rdlif/)".
-
-<p align="left">
-    <a href="https://www.youtube.com/@NerdLif?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@NerdLif">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/ProfWashingtonAraujo?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/ProfWashingtonAraujo?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<!-- Profile badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anttonio-dent&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/anttonio-dent">
+    <img src="https://img.shields.io/github/followers/anttonio-dent?label=Followers&style=flat&color=0e75b6" alt="Followers" />
+  </a>
 </p>
+
+<!-- Intro -->
+<h1 align="center">👋 Hey, I'm <span style="color:#2dd4bf;">Mike Teiler</span></h1>
+<h3 align="center">✨ Full-Stack Developer | Automation Builder | Cloud Engineer ✨</h3>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🌟 About Me
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+I’m a full-stack developer passionate about creating fast, scalable, and reliable systems.  
+I focus on connecting backends, frontends, and automation to make complex tasks simple and efficient.  
+My goal is to write code that feels light to maintain and powerful to run.
 
-<br/>
-<br/>
+---
 
-### 📊 Estatísticas
+### ⚡ What I Do
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ProfWashingtonAraujo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+- **☁️ Backend & Cloud:**  
+  Build efficient APIs and backend systems using Go and Node.js.  
+  Deploy with AWS, Docker, and Supabase for performance and scalability.  
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProfWashingtonAraujo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+- **💻 Frontend Development:**  
+  Develop fast, responsive, and user-friendly applications using React and Next.js.  
 
+- **💪 Automation & Integration:**  
+  Create workflow automations with n8n and Airflow.  
+  Connect APIs to save time, reduce friction, and make systems talk to each other.  
+
+- **🎁 E-Commerce & CMS:**  
+  Customize Shopify and WordPress for clean, conversion-focused storefronts.
+
+---
+
+### 💥 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="28" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/n8n-EA4C89?logo=n8n&logoColor=white" height="28" />
 </p>
+
+---
+<p align="center">
+  <b>“Build clean. Automate smart. Deploy with confidence.”</b>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%"/>
