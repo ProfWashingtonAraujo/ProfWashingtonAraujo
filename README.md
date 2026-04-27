@@ -23,21 +23,21 @@ Me chamo Washington Luis Araújo Silva casado com Denise Campos, tenho 42 anos e
 
 ---
 
-### ⚡ What I Do
+### ⚡ O que faço
 
 - **☁️ Backend & Cloud:**  
-  Build efficient APIs and backend systems using Go and Node.js.  
-  Deploy with AWS, Docker, and Supabase for performance and scalability.  
+    Crio APIs e sistemas de backend eficientes usando Go e Node.js.
+    Implantamos com AWS, Docker e Supabase para desempenho e escalabilidade.
 
 - **💻 Frontend Development:**  
-  Develop fast, responsive, and user-friendly applications using React and Next.js.  
+    Desenvolvo aplicações rápidas, responsivas e fáceis de usar com React e Next.js.
 
 - **💪 Automation & Integration:**  
-  Create workflow automations with n8n and Airflow.  
-  Connect APIs to save time, reduce friction, and make systems talk to each other.  
+    Crio automações de fluxo de trabalho com n8n e Airflow.
+    Conecto APIs para economizar tempo, reduzir atritos e fazer com que os sistemas se comuniquem entre si. 
 
 - **🎁 E-Commerce & CMS:**  
-  Customize Shopify and WordPress for clean, conversion-focused storefronts.
+    Personalizo Shopify e WordPress para lojas virtuais limpas e focadas em conversão.
 
 ---
 
@@ -56,7 +56,7 @@ Me chamo Washington Luis Araújo Silva casado com Denise Campos, tenho 42 anos e
 
 ---
 <p align="center">
-  <b>“Build clean. Automate smart. Deploy with confidence.”</b>
+  <b>“Construa de forma limpa. Automatize de forma inteligente. Implante com confiança.”</b>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%"/>
