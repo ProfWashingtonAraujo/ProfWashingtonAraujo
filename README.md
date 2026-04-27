@@ -10,16 +10,16 @@
 </p>
 
 <!-- Intro -->
-<h1 align="center">👋 Hey, I'm <span style="color:#2dd4bf;">Mike Teiler</span></h1>
+<h1 align="center">👋 Oi, sou <span style="color:#2dd4bf;">Washington Araújo</span></h1>
 <h3 align="center">✨ Full-Stack Developer | Automation Builder | Cloud Engineer ✨</h3>
 
 ---
 
-### 🌟 About Me
+### 🌟 Sobre mim
 
-I’m a full-stack developer passionate about creating fast, scalable, and reliable systems.  
-I focus on connecting backends, frontends, and automation to make complex tasks simple and efficient.  
-My goal is to write code that feels light to maintain and powerful to run.
+Me chamo Washington Luis Araújo Silva casado com Denise Campos, tenho 42 anos e sou natural de Cascavel, litoral do Ceará. Concluí o ensino médio no CNEC - Pe. Fco Valdevino Nogueira em 2002, com o curso técnico em informática. Atualmente, estou cursando pós-Graduação em Gestão em Educação Profissional pelo IFRO, já com 20 anos de experiência em Análise e Desenvolvimento de Sistemas e Gestão de Projetos TI. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Nerdlif](https://www.youtube.com/@NerdLif)", onde trago algumas novidades da área da tech, e também através do Instagram, com o perfil chamado "[n3rdlif
+](https://www.instagram.com/n3rdlif/)".
+
 
 ---
 
